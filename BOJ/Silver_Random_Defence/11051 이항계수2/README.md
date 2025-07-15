@@ -1,5 +1,5 @@
+# Silver 2
 <img width="350" height="142" alt="image" src="https://github.com/user-attachments/assets/be8d92e0-91ec-49d8-b8ac-57cfecb8140a" />
-
 조합을 구하면 되는 문제이다.
 
 n!/(n-k)! 과 k!을 따로 구해 나눠주었다.
