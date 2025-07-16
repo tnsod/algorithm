@@ -1,4 +1,4 @@
-<p>$\huge{\large{\color{#dfc901}Gold 2}}$</p>
+<p>$\huge{\large{\color{#dfc901}Gold 5}}$</p>
 
 <img width="506" height="308" alt="image" src="https://github.com/user-attachments/assets/f7837dba-f402-443e-890b-c44b96c0357a" />
 
