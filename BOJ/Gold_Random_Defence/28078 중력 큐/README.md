@@ -1,6 +1,8 @@
 <p>$\huge{\large{\color{#dfc901}Gold 5}}$</p>
 
 <img width="506" height="308" alt="image" src="https://github.com/user-attachments/assets/f7837dba-f402-443e-890b-c44b96c0357a" />
+<img width="470" height="300" alt="image" src="https://github.com/user-attachments/assets/5013a4ef-af45-4995-b7b9-1a34bdd18ff2" />
+
 
 큐가 회전할 수 있고 큐 안에는 가림막과 공이 있다. 가림막은 중력의 영향을 안받고 공은 중력의 영향을 받는다 한다.
 
